@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="bigCircle">88dp</dimen>
+    <dimen name="smallCircle">32dp</dimen>
+
+</resources>
